@@ -16,15 +16,9 @@
                 "file": "ทำนาย AI ปี 2035 จากผู้คิดค้นระดับโลก  Executive Espresso EP.537.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a8553d9ae6a8bf5a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "ทำนาย AI ปี 2035 จากผู้คิดค้นระดับโลก  Executive Espresso EP.537"
             }
           }
         ]
@@ -46,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
             }
           },
           {
@@ -62,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -70,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -101,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ทำนาย AI ปี 2035 จากผู้คิดค้นระดับโลก  Executive Espresso EP.537"
             }
           },
           {
@@ -113,7 +116,9 @@
                 "file": "ทำนาย AI ปี 2035 จากผู้คิดค้นระดับโลก  Executive Espresso EP.537.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ทำนาย AI ปี 2035 จากผู้คิดค้นระดับโลก  Executive Espresso EP.537"
             }
           },
           {
@@ -123,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ทำนาย AI ปี 2035 จากผู้คิดค้นระดับโลก  Executive Espresso EP.537.md"
-              }
+                "file": "ทำนาย AI ปี 2035 จากผู้คิดค้นระดับโลก  Executive Espresso EP.537.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ทำนาย AI ปี 2035 จากผู้คิดค้นระดับโลก  Executive Espresso EP.537"
             }
           }
         ]
@@ -146,15 +160,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "d6546a12e0747265",
+  "active": "6f8f419b276302bf",
   "lastOpenFiles": [
     "ทำนาย AI ปี 2035 จากผู้คิดค้นระดับโลก  Executive Espresso EP.537.md",
     "Untitled 1.canvas",
